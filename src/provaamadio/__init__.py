@@ -2,4 +2,4 @@
 #prima prova 
 
 def main() -> None:
-    print("Se funziona sono pol")
+    print("Se funziona sono un fuso")
