@@ -1,2 +1,5 @@
+#SebastianoAmadio
+#prima prova 
+
 def main() -> None:
-    print("Hello from provaamadio!")
+    print("Se funziona sono pol")
